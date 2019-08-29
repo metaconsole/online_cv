@@ -2,7 +2,7 @@
 title: Paul Steppacher
 description: Resumee
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://github.com/how-about-this/how-about-this:8080" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Paul Steppacher
@@ -10,7 +10,7 @@ user_description: I am a IT Consultant currently focusing on becoming a Software
 user_title: IT Consultant/Developer
 email: p.steppacher91@gmail.com
 # twitter_username: lorem_ipsum
- github_username:  how-about-this
+github_username:  how-about-this
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
