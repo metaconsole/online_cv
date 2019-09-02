@@ -6,7 +6,7 @@ url: "https://github.com/how-about-this/how-about-this:8080" # the base hostname
 
 # User settings
 username: Paul Steppacher
-user_description: I am a IT Consultant currently focusing on becoming a Software Developer with focus on Data Analysis
+user_description: I am a IT Consultant currently focusing on becoming a Software Developer with emphasis on Data Analysis
 user_title: IT Consultant/Developer
 email: p.steppacher91@gmail.com
 # twitter_username: lorem_ipsum
@@ -17,4 +17,4 @@ github_username:  how-about-this
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'node_modules']

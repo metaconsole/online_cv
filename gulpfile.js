@@ -79,7 +79,7 @@ gulp.task('js', function(){
 
 gulp.task('watch', function() {
 	gulp.watch('src/styles/**/*.scss', ['sass', 'jekyll-rebuild']);
-	gulp.watch('src/js/**/*.js', ['js']);
+	gulp.watch('src/js/*.js', ['js']);
 	gulp.watch('src/fonts/**/*.{tff,woff,woff2}', ['fonts']);
 	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
 	gulp.watch(['*html', '_includes/*html', '_layouts/*.html'], ['jekyll-rebuild']);
