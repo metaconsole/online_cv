@@ -1,17 +1,17 @@
 # Site settings
-title: Paul Steppacher
+title: Philipp Merz
 description: Resumee
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://github.com/how-about-this/how-about-this:8080" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "https://github.com/metaconsole/online_cv:8080" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Paul Steppacher
+username: Philipp Merz
 user_description: I am a IT Consultant currently focusing on becoming a Software Developer with emphasis on Data Analysis
-user_title: IT Consultant/Developer
-email: p.steppacher91@gmail.com
-# twitter_username: lorem_ipsum
-github_username:  how-about-this
-# gplus_username:  lorem_ipsum
+user_title: IT Consultant/Developer/Data Scientist
+email: neroboxte@gmail.com
+# twitter_username: keinen_twitter_handle
+github_username:  metaconsole
+# gplus_username:  metaconsole
 
 # Google-analytics
 google-analytics:

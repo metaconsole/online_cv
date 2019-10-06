@@ -48,8 +48,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: Philipp Merz
+email: neroboxte@gmail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -78,7 +78,7 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 
 1. Install Jekyll
 2. Run `jekyll build`
-3. Start and http-server in the folder `_site`
+3. Start and http-server in the folder `_site` or use 'sudo bundle exec jekyll serve' in online_cv
 
 # Contribution
 
